@@ -1,5 +1,4 @@
 streamlit
-google-genai
 langchain
 langchain-google-genai
 langchain-community
@@ -8,3 +7,5 @@ chromadb
 pypdf
 sentence-transformers
 python-dotenv
+protobuf==4.25.3
+chromadb==0.5.23
